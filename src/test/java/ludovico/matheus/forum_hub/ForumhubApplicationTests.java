@@ -1,4 +1,4 @@
-package ludovico.matheus.forumhub;
+package ludovico.matheus.forum_hub;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,13 +1,11 @@
-package ludovico.matheus.forumhub;
+package ludovico.matheus.forum_hub;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ForumhubApplication {
-
+public class ForumHubApplication {
 	public static void main(String[] args) {
-		SpringApplication.run(ForumhubApplication.class, args);
+		SpringApplication.run(ForumHubApplication.class, args);
 	}
-
 }
